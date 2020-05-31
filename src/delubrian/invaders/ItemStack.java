@@ -1,6 +1,5 @@
 package delubrian.invaders;
 import java.io.Serializable;
-import java.util.Iterator;
 import simplelibrary.config2.Config;
 public class ItemStack implements Serializable{
     private static final long serialVersionUID = 11238347109237401L;

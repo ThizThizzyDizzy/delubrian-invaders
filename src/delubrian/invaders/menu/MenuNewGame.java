@@ -2,7 +2,6 @@ package delubrian.invaders.menu;
 import delubrian.invaders.Core;
 import delubrian.invaders.Main;
 import delubrian.invaders.planet.Galaxy;
-import delubrian.invaders.menu.MenuSurface;
 import java.io.File;
 import org.lwjgl.opengl.Display;
 import simplelibrary.opengl.gui.GUI;

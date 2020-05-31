@@ -8,7 +8,6 @@ import delubrian.invaders.planet.Ship;
 import java.util.ArrayList;
 import java.util.Random;
 import org.lwjgl.opengl.Display;
-import simplelibrary.font.FontManager;
 import simplelibrary.opengl.gui.GUI;
 import simplelibrary.opengl.gui.Menu;
 import simplelibrary.opengl.gui.components.MenuComponent;

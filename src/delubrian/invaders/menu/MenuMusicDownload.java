@@ -1,5 +1,4 @@
 package delubrian.invaders.menu;
-
 import delubrian.invaders.Main;
 import delubrian.invaders.Sounds;
 import org.lwjgl.opengl.Display;

@@ -1,11 +1,9 @@
 package delubrian.invaders.planet;
-import delubrian.invaders.Item;
 import delubrian.invaders.ItemStack;
 import delubrian.invaders.menu.component.MenuComponentBuilding;
 import delubrian.invaders.menu.component.MenuComponentMine;
 import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.Iterator;
 public class Mine extends Building implements Serializable{
     private static final long serialVersionUID = 18193L;
     public ArrayList<ItemStack> cargo = new ArrayList<>();

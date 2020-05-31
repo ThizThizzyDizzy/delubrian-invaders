@@ -1,6 +1,4 @@
 package delubrian.invaders;
-import delubrian.invaders.Item;
-import delubrian.invaders.ItemStack;
 import delubrian.invaders.planet.BlockType;
 import java.io.Serializable;
 import java.util.ArrayList;

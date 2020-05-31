@@ -1,8 +1,5 @@
 package delubrian.invaders.menu.component;
-import delubrian.invaders.menu.component.MenuComponentParticle;
 import java.awt.Color;
-import java.nio.ByteBuffer;
-import java.nio.DoubleBuffer;
 import org.lwjgl.opengl.GL11;
 import simplelibrary.opengl.ImageStash;
 import static simplelibrary.opengl.Renderer2D.drawRect;

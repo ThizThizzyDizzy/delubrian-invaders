@@ -16,7 +16,6 @@ import java.util.ArrayList;
 import java.util.Random;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.GL11;
-import simplelibrary.font.FontManager;
 import static simplelibrary.opengl.Renderer2D.drawRect;
 import simplelibrary.opengl.gui.GUI;
 import simplelibrary.opengl.gui.Menu;

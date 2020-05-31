@@ -1,5 +1,4 @@
 package delubrian.invaders.menu.component;
-import delubrian.invaders.menu.MenuSelectCargo;
 import delubrian.invaders.menu.MenuSurface;
 import delubrian.invaders.planet.Galaxy;
 import delubrian.invaders.planet.Mine;

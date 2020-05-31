@@ -13,7 +13,6 @@ import delubrian.invaders.menu.component.MenuComponentTruck;
 import delubrian.invaders.menu.component.MenuComponentWarehouse;
 import delubrian.invaders.planet.Building;
 import delubrian.invaders.planet.Planet;
-import java.util.ArrayList;
 import org.lwjgl.opengl.Display;
 import simplelibrary.opengl.gui.GUI;
 import simplelibrary.opengl.gui.Menu;
